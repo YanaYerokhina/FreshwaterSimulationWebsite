@@ -51,18 +51,27 @@ An interactive web-based simulation that educates users about freshwater polluti
 * Responsive design for various screen sizes
 * Animated visual effects (ripples, bubbles, fish movement)
 
+# Setup and Installation
+1. Clone the repository:
+```
+git clone [repository-url]
+```
+2. No additional dependencies or build steps required - this is a static website
+3. Open [index.html](index.html) in a web browser to run locally
 
+# Usage
+1. Navigate between simulations using the navigation bar
+2. Use the "Pollute" buttons to add different types of pollution
+3. Use the "Clean" buttons to remove pollution
+4. Observe changes in:
+   * Water quality percentage
+   * Visual environment
+   * Wildlife behavior
+   * Educational facts
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+# Contributing 
+1. Fork the repository
+2. Create a feature branch
+3. Commit your changes
+4. Push to the branch
+5. Open a Pull Request
