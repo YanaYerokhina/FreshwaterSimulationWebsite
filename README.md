@@ -75,3 +75,11 @@ git clone [repository-url]
 3. Commit your changes
 4. Push to the branch
 5. Open a Pull Request
+
+# Credits 
+* Educational content sourced from:
+  * DoSomething.org
+  * Collaborative for Health & Environment
+  * U.N Water
+  * Ground Water Foundation
+  * And other environmental organizations
