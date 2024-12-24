@@ -1,0 +1,321 @@
+{
+    "RunoffFacts": [
+        {
+            "fact": "\"Each year 1.2 trillion gallons of untreated sewage, stormwater, and industrial waste are dumped into US water\"",
+            "source": "DoSomething.org",
+            "link": "https://dosomething.org/article/11-facts-about-pollution"
+        },
+        {
+            "fact": "\"In developing countries, 70 percent of industrial wastes are dumped untreated into waters, polluting the usable water supply.\"",
+            "source": "Collaborative for Health & Environment",
+            "link": "https://www.healthandenvironment.org/environmental-health/environmental-risks/global-environment/water-quality"
+        },
+        {
+            "fact": "\"Federal authorities estimate that the headwaters of 40 percent of Western rivers are tainted with toxic discharge from abandoned mines\"",
+            "source": "SeaMetrics",
+            "link": "https://www.seametrics.com/blog/water-pollution-facts/"
+        },
+        {
+            "fact": "In the United States there are thought to be over 20,000 known abandoned and uncontrolled hazardous waste sites and these sites contaminate groundwater",
+            "source": "Ground Water Foundation",
+            "link": "https://groundwater.org/threats/contamination/"
+        },
+        {
+            "fact": "\"Industry dumps an estimated 300-400 MT of polluted waste in waters every year\"",
+            "source": "U.N Water",
+            "link": "https://www.unwater.org/"
+        },
+        {
+            "fact": "\"Nitrate from agriculture is the most common chemical contaminant in the world’s freshwater\"",
+            "source": "U.N Water",
+            "link": "https://www.unwater.org/"
+        },
+        {
+            "fact": "\"In the USA there are 12-18 million cases of water-borne diseases a year\"",
+            "source": "Quench Water",
+            "link": "https://quenchwater.com/blog/facts-about-water-pollution/"
+        },
+        {
+            "fact": "\"In the United States, 40% of the rivers and 46% of the lakes are polluted and are considered unhealthy for swimming, fishing or aquatic life\"",
+            "source": "Quench Water",
+            "link": "https://quenchwater.com/blog/facts-about-water-pollution/"
+        },
+        {
+            "fact": "\"Currently, 44% of all wastewater on Earth returns to the environment untreated\"",
+            "source": "Development Aid",
+            "link": "https://www.developmentaid.org/news-stream/post/152754/water-pollution-in-the-world"
+        },
+        {
+            "fact": "Runoffs can lead to 'dead zones' in water that are deprived of oxygen",
+            "source": "Development Aid",
+            "link": "https://www.developmentaid.org/news-stream/post/152754/water-pollution-in-the-world"
+        }
+    ],
+
+    "LitterFacts": [
+        {
+            "fact": "Litter can collect in many areas of fresh water like the surface, water floor, water columns, and inside living things",
+            "source": "Wetland Info",
+            "link": "https://wetlandinfo.des.qld.gov.au/wetlands/management/pressures/litter-illegal-dumping/sinks/fresh-water/"
+        },
+        {
+            "fact": "Most common form of litter found in freshwater is plastic, followed by metal, glass, cloth, footwear, paper, and wood",
+            "source": "Wetland Info",
+            "link": "https://wetlandinfo.des.qld.gov.au/wetlands/management/pressures/litter-illegal-dumping/sinks/fresh-water/"
+        },
+        {
+            "fact": "The majority of waste entering freshwater comes from food packaging",
+            "source": "Wetland Info",
+            "link": "https://wetlandinfo.des.qld.gov.au/wetlands/management/pressures/litter-illegal-dumping/sinks/fresh-water/"
+        },
+        {
+            "fact": "\"River deltas receive 52 percent of river-borne plastic pollution, though they make up less than 1 percent of global coastlines\"",
+            "source": "Wetland Info",
+            "link": "https://wetlandinfo.des.qld.gov.au/wetlands/management/pressures/litter-illegal-dumping/sinks/fresh-water/"
+        },
+        {
+            "fact": "Waste found on the water surface stays there until it decomposes, washes up on shore, sinks to the water floor, or is removed by other means",
+            "source": "Wetland Info",
+            "link": "https://wetlandinfo.des.qld.gov.au/wetlands/management/pressures/litter-illegal-dumping/sinks/fresh-water/"
+        },
+        {
+            "fact": "Litter is most any waste that is disposed of incorrectly",
+            "source": "Healthy Land & Water",
+            "link": "https://hlw.org.au/resources/downloads/threats/91-threats-litter-in-our-waterways-factsheet/file"
+        },
+        {
+            "fact": "\"The Healthy Land & Water Clean Up Program has recorded a 50% increase in the number of plastic water bottles collected from local waterways\"",
+            "source": "Healthy Land & Water",
+            "link": "https://hlw.org.au/resources/downloads/threats/91-threats-litter-in-our-waterways-factsheet/file"
+        },
+        {
+            "fact": "80% of litter found in waterways is plastic",
+            "source": "Healthy Land & Water",
+            "link": "https://hlw.org.au/resources/downloads/threats/91-threats-litter-in-our-waterways-factsheet/file"
+        },
+        {
+            "fact": "Most plastic objects that end up in fresh water don't biodegrade",
+            "source": "Healthy Land & Water",
+            "link": "https://hlw.org.au/resources/downloads/threats/91-threats-litter-in-our-waterways-factsheet/file"
+        },
+        {
+            "fact": "\"Cigarettes are the most frequently littered item, with an estimated 9.7 billion cigarette butts discarded along roadways and waterways\"",
+            "source": "Texas Disposal System",
+            "link": "https://www.texasdisposal.com/blog/the-real-cost-of-littering/"
+        },
+        {
+            "fact": "It is estimated that +1,000,000 animals die a year from eating or being trapped in trash",
+            "source": "Texas Disposal System",
+            "link": "https://www.texasdisposal.com/blog/the-real-cost-of-littering/"
+        },
+        {
+            "fact": "Germs and parasites stick to litter, facilitating the spread of disease, especially for animals that come in contact with it.",
+            "source": "Texas Disposal System",
+            "link": "https://www.texasdisposal.com/blog/the-real-cost-of-littering/"
+        },
+        {
+            "fact": "Plastic takes 10 to 20 years to decompose",
+            "source": "City Wildlife",
+            "link": "https://citywildlife.org/litter-and-our-waterways/"
+        },
+        {
+            "fact": "Aluminum cans take 200 to 500 years to decompose",
+            "source": "City Wildlife",
+            "link": "https://citywildlife.org/litter-and-our-waterways/"
+        },
+        {
+            "fact": "Glass bottles are estimated to take 1 million years to decompose",
+            "source": "City Wildlife",
+            "link": "https://citywildlife.org/litter-and-our-waterways/"
+        },
+        {
+            "fact": "The average person walks by 12,000 items of litter every day",
+            "source": "Greenwood.gov",
+            "link": "https://www.greenwood.in.gov/egov/documents/1584634909_6325.pdf"
+        },
+        {
+            "fact": "\"Litter decreases oxygen levels in the water when it decays\"",
+            "source": "Greenwood.gov",
+            "link": "https://www.greenwood.in.gov/egov/documents/1584634909_6325.pdf"
+        },
+        {
+            "fact": "Only ~9% of plastic is recycled.",
+            "source": "United Nations Development Programme",
+            "link": "https://stories.undp.org/why-arent-we-recycling-more-plastic#:~:text=Recycling%20rates%20vary%20by%20location,Some%2012%20percent%20is%20incinerated."
+        },
+        {
+            "fact": "\"Industry dumps an estimated 300-400 MT of polluted waste in waters every year\"",
+            "source": "U.N Water",
+            "link": "https://www.unwater.org/"
+        }
+    ],
+
+    "IndustrialWasteFacts": [
+        {
+            "fact": "\"Industry accounts for 20% of the freshwater withdrawn worldwide. This water is used in production and becomes polluted\"",
+            "source": "Environmental Litigation Group",
+            "link": "https://www.elglaw.com/faq/how-industrial-waste-get-into-water-systems/#:~:text=Due%20to%20the%20discharge%20of,in%20production%20and%20becomes%20polluted."
+        },
+        {
+            "fact": "Industrial waste can be caused through burning fossil fuels, releasing chemical solvents, leaking radioactive materials, not treating waste properly, amongst others.",
+            "source": "AquaRead: Water Monitoring Instruments",
+            "link": "https://www.aquaread.com/blog/impacts-of-industrial-waste/"
+        },
+        {
+            "fact": "Industrial waste is categorized as 'hazardous' if it can be ignited, is corrosive, toxic, or radioactive.",
+            "source": "AquaRead: Water Monitoring Instruments",
+            "link": "https://www.aquaread.com/blog/impacts-of-industrial-waste/"
+        },
+        {
+            "fact": "Industrial waste can lead to eutrophication (water with an abundance of minerals) and can later lead to an excessive amount of algae growth, and then a red tide.",
+            "source": "AquaRead: Water Monitoring Instruments",
+            "link": "https://www.aquaread.com/blog/impacts-of-industrial-waste/"
+        },
+        {
+            "fact": "\"Around the world, some 2 billion tonnes of human waste are disposed of in water courses every day.\"",
+            "source": "UN Environment Program",
+            "link": "https://www.unep.org/beatpollution/forms-pollution/freshwater"
+        },
+        {
+            "fact": "\"A major water use is industrial, which occupies 22% worldwide water use.\"",
+            "source": "ScienceDirect",
+            "link": "https://www.sciencedirect.com/topics/engineering/industrial-water-use#:~:text=Another%20major%20water%20use%20is,oil%20refineries%2C%20and%20hydroelectric%20dams."
+        },
+        {
+            "fact": "\"In developing countries, 70 percent of industrial wastes are dumped untreated into waters, polluting the usable water supply.\"",
+            "source": "National Geographic",
+            "link": "https://www.nationalgeographic.com/"
+        },
+        {
+            "fact": "\"Industry dumps an estimated 300-400 MT of polluted waste in waters every year.\"",
+            "source": "UN Water",
+            "link": "https://www.unwater.org/"
+        },
+        {
+            "fact": "\"Nitrate from agriculture is the most common chemical contaminant in the world’s groundwater aquifers.\"",
+            "source": "UN Water",
+            "link": "https://www.unwater.org/"
+        },
+        {
+            "fact": "\"Every day, over 2 million tons of sewage and industrial and agricultural waste are discharged into the world’s water.\"",
+            "source": "Quench Water",
+            "link": "https://quenchwater.com/blog/facts-about-water-pollution/"
+        },
+        {
+            "fact": "\"In 1980, Congress passed the Comprehensive Environmental Response, Compensation, and Liability Act, commonly known as the Superfund program, to try to clean up widespread contamination.\"",
+            "source": "Center for Public Integrity",
+            "link": "https://publicintegrity.org/environment/industrial-waste-pollutes-americas-drinking-water/"
+        },
+        {
+            "fact": "\"Freshwater is used by many industrial facilities to transport waste away from the facility and into rivers, lakes, and oceans.\"",
+            "source": "Journal of Industrial Pollution Control",
+            "link": "https://www.icontrolpollution.com/articles/impacts-of-water-contamination-by-industrial-wastewater.php?aid=90078"
+        }
+    ],
+
+    "OilGreaseFacts": [
+        {
+            "fact": "Cleaning oil spills can be more difficult in lakes since water is denser and will slightly sink, making it hard to separate the oil from water",
+            "source": "NOAA: Office of Response and Restoration",
+            "link": "https://response.restoration.noaa.gov/oil-and-chemical-spills/oil-spills/resources/oil-spills-rivers.html"
+        },
+        {
+            "fact": "\"Roughly 706 million gallons of oil enter the ocean every year.\"",
+            "source": "EcoWatch",
+            "link": "https://www.ecowatch.com/oil-spill-facts-ecowatch.html"
+        },
+        {
+            "fact": "The biggest oil spill that occurred in the use was the 2010 water Horizon BP Oil Spill. 210 million gallons of oil were released into the Gulf of Mexico",
+            "source": "EcoWatch",
+            "link": "https://www.ecowatch.com/oil-spill-facts-ecowatch.html"
+        },
+        {
+            "fact": "\"[It is estimated that 2010 Horizon BP oil spill] harmed or killed about 82,000 birds of 102 species; about 6,165 sea turtles; as many as 25,900 marine mammals; and a vast (but unknown) number of fish.\"",
+            "source": "Center for Biological Diversity",
+            "link": "https://www.biologicaldiversity.org/programs/public_lands/energy/dirty_energy_development/oil_and_gas/gulf_oil_spill/a_deadly_toll.html#"
+        },
+        {
+            "fact": "\"Oil, dispersed oil and dispersants are all toxic to marine and onshore plants like seagrasses, mangroves and wetland vegetation, which provide habitat and food for many species.\"",
+            "source": "Center for Biological Diversity",
+            "link": "https://www.biologicaldiversity.org/programs/public_lands/energy/dirty_energy_development/oil_and_gas/gulf_oil_spill/a_deadly_toll.html#"
+        },
+        {
+            "fact": "An oil spill that releases 7-700 tonnes of oil is considered 'small', otherwize they are categorized as 'large oil spills'",
+            "source": "International Tanker Owners Pollution Federation (ITOPF)",
+            "link": "https://www.itopf.org/knowledge-resources/data-statistics/statistics/"
+        },
+        {
+            "fact": "\"The average number of spills per year in the 1970s was approximately 79. This decreased by over 90% to 6.3 in the 2010s\"",
+            "source": "International Tanker Owners Pollution Federation (ITOPF)",
+            "link": "https://www.itopf.org/knowledge-resources/data-statistics/statistics/"
+        },
+        {
+            "fact": "Oil spills in fresh water can reduce phytoplankton and zooplankton  zooplankton by 70%",
+            "source": "International Institute for Sustainable Development",
+            "link": "https://www.iisd.org/ela/blog/what-happens-when-oil-spills-into-a-freshwater-lake/"
+        },
+        {
+            "fact": "\" Oil in sediments may be very harmful because sediment traps the oil and affects the organisms that live in or feed off the sediments.\"",
+            "source": "United States Environmental Protection Agency (EPA)",
+            "link": "https://archive.epa.gov/emergencies/content/learning/web/html/freshwat.html"
+        },
+        {
+            "fact": "\"Marsh environments are among the most sensitive freshwater habitat to oil spills due to the minimal water flow\"",
+            "source": "United States Environmental Protection Agency (EPA)",
+            "link": "https://archive.epa.gov/emergencies/content/learning/web/html/freshwat.html"
+        }
+    ],
+    
+    "SewageWasteWaterFacts": [
+        {
+            "fact": "\"Wastewater treatment facilities process about 34 billion gallons of wastewater per day.\"",
+            "source": "Natural Resource Defense Council",
+            "link": "https://www.nrdc.org/stories/water-pollution-everything-you-need-know#causes"
+        },
+        {
+            "fact": "\"Every day, 2 million tons of sewage and industrial and agricultural waste are discharged into the world’s wate.\"",
+            "source": "Pacific Institute",
+            "link": "https://pacinst.org/wp-content/uploads/2013/02/water_quality_facts_and_stats3.pdf"
+        },
+        {
+            "fact": "\"SSOs are overflows or releases from sanitary sewer systems and are illegal under the Clean Water Act.\"",
+            "source": "United States Environmental Protection Agency (EPA)",
+            "link": "https://www3.epa.gov/region1/sso/enforcement.html#:~:text=EPA's%20Clean%20Water%20Act%20(CWA,under%20the%20Clean%20Water%20Act."
+        },
+        {
+            "fact": "The release of sewage into bodies of water introduces more nutrients into the system, leading to more algae and algae blooms.",
+            "source": "Natural History Museum",
+            "link": "https://www.nhm.ac.uk/discover/news/2021/november/the-deadly-effects-of-sewage-pollution-on-nature.html"
+        },
+        {
+            "fact": "Over 860 billion gallons of sewage leaks into the environment every year",
+            "source": "American Rivers",
+            "link": "https://www.americanrivers.org/threats-solutions/clean-water/sewage-pollution/"
+        },
+        {
+            "fact": "Untreated sewage can carry diseases such as salmonella, hepatitis, dysentery, cryptosporidium, amongst others",
+            "source": "American Rivers",
+            "link": "https://www.americanrivers.org/threats-solutions/clean-water/sewage-pollution/"
+        },
+        {
+            "fact": "\"A study by the CDC and the National Academy of Sciences concluded that most illnesses caused by eating tainted seafood have human sewage as the root cause.\"",
+            "source": "American Rivers",
+            "link": "https://www.americanrivers.org/threats-solutions/clean-water/sewage-pollution/"
+        },
+        {
+            "fact": "\"There are 600,000 miles of sewer pipes across the country and the average age is 33 years\"",
+            "source": "American Rivers",
+            "link": "https://www.americanrivers.org/threats-solutions/clean-water/sewage-pollution/"
+        },
+        {
+            "fact": "\"Globally, roughly 50% of wastewater is treated at facilities before being released into nearby bodies of water.\"",
+            "source": "Eos.org",
+            "link": "https://eos.org/articles/even-treated-sewage-harms-freshwater-ecosystems"
+        },
+        {
+            "fact": "Treated wastewater has been shown to still have a negative impact on freshwater and it's ecosystem.",
+            "source": "Eos.org",
+            "link": "https://eos.org/articles/even-treated-sewage-harms-freshwater-ecosystems"
+        }
+    ]
+}

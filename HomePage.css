@@ -1,0 +1,266 @@
+/* General Styles for All Pages */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    line-height: 1.6;
+    overflow-x: hidden;
+}
+
+nav {
+    background: rgba(0, 51, 102, 0.9);
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    padding: 1rem 0;
+}
+
+/* Navbar Buttons */
+nav button {
+    background: #0077be;
+    color: #fff;
+    padding: 0.8rem 1.5rem;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background 0.3s, transform 0.3s;
+}
+
+nav button:hover {
+    background: #005f99;
+    transform: scale(1.05);
+}
+
+nav button:active {
+    background: #004d80;
+    transform: scale(0.95);
+}
+
+/* Section Title */
+.sectionTitle h1 {
+    text-align: center;
+    margin: 1rem 0;
+    font-size: 2.5rem;
+    color: #333;
+}
+
+/* Container Styles */
+.container {
+    padding: 1rem;
+    text-align: center;
+    position: relative;
+    z-index: 1;
+    color: #333; 
+    border-radius: 5px;
+}
+
+.container h1 {
+    color: black;
+}
+
+.container p {
+    margin: 1rem 0 2rem;
+    font-size: 1.2rem;
+}
+
+/* Flex Layout */
+.flex-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 2rem;
+}
+
+.flex-container img {
+    width: 450px;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+}
+
+.flex-container img:hover {
+    transform: scale(1.1);
+}
+
+.flex-container div {
+    max-width: 500px;
+    text-align: left;
+}
+
+/* How to Use Simulation Section */
+.how-to-title {
+    color: black;
+    text-align: center;
+    font-size: 1.8rem;
+    margin-bottom: 1rem;
+}
+
+.how-to-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    font-size: 1.1rem;
+    line-height: 1.8;
+    color: black;
+    font-weight: 500;
+}
+
+.how-to-list li {
+    margin-bottom: 1rem;
+    padding-left: 1.2rem;
+    position: relative;
+}
+
+.bullet {
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #0077be;
+    font-size: 1.2rem;
+}
+
+.how-to-list strong {
+    font-weight: 600;
+}
+
+/* Buttons */
+.buttons-container {
+    margin: 2rem 0;
+}
+
+.buttons-container button {
+    background: #0077be;
+    color: #fff;
+    padding: 0.8rem 1.5rem;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    font-weight: bold;
+    cursor: pointer;
+    margin: 0.5rem;
+    transition: background 0.3s;
+}
+
+.buttons-container button:hover {
+    background: #005f99;
+    transform: scale(1.05);
+}
+
+.buttons-container button:active {
+    background: #005f99;
+    transform: scale(0.95);
+}
+
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .flex-container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .flex-container img {
+        width: 100%;
+    }
+}
+
+/* Home Page Specific Styles */
+body.home-page {
+    background: linear-gradient(to bottom, #a0e4ff, #0077be);
+    background-attachment: fixed;
+}
+
+body.home-page #bubble-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
+
+body.home-page .bubble {
+    position: absolute;
+    bottom: -50px;
+    background: rgba(255, 255, 255, 0.6);
+    border-radius: 50%;
+    animation: floatUp 10s linear infinite;
+    opacity: 0.8;
+}
+
+/* Keyframes for Bubbles */
+@keyframes floatUp {
+    from {
+        transform: translateY(0);
+        opacity: 0.8;
+    }
+
+    to {
+        transform: translateY(-150vh);
+        opacity: 0;
+    }
+}
+
+/* Fish Styles */
+body.home-page .fish {
+    position: absolute;
+    bottom: 10%;
+    animation-timing-function: linear;
+}
+
+body.home-page .fish img {
+    width: 50px;
+    transform: scaleX(1);
+    transition: transform 0.5s;
+}
+
+body.home-page .fish-right {
+    animation: swimRight 12s linear infinite;
+}
+
+body.home-page .fish-left {
+    animation: swimLeft 14s linear infinite;
+}
+
+@keyframes swimRight {
+    from {
+        left: -100px;
+    }
+
+    to {
+        left: 110%;
+    }
+}
+
+@keyframes swimLeft {
+    from {
+        left: 110%;
+    }
+
+    to {
+        left: -100px;
+    }
+}
+
+/* Footer Styles */
+footer {
+    background: #003366;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+    margin-top: 2rem;
+}
+
+footer a {
+    color: rgb(110, 202, 245);
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}

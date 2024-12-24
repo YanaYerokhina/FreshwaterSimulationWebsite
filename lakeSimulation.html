@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang = "en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lake Shore Simulation</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
+</head>
+
+<body class="simulation_body" id = "shore_body">
+
+    <!-- Animated Ripples -->
+    <div class="ripple"></div>
+    <div class="ripple"></div>
+    <div class="ripple"></div>
+    
+    <!-- Animated Bubbles -->
+    <div class="bubble"></div>
+    <div class="bubble"></div>
+    <div class="bubble"></div>
+    <div class="bubble"></div>
+
+    <!-- NAVIGATION BAR -->
+    <nav>
+        <button onclick="location.href='underwaterSimulation.html'">Underwater Simulation</button>
+        <button onclick="location.href='index.html'">Home</button>
+        <button onclick="location.href='lakeSimulation.html'">Lake Shore Simulation</button>
+    </nav>
+
+    <main>
+        <!-- SECTION TITLE -->
+        <div class="sectionTitle">
+            <h1>Lake Shore Simulation</h1>
+        </div>
+
+        <!-- FRESHWATER FACT -->
+        <div class="factSection">
+            <h2>Freshwater Fact:</h2>
+            <p id="factTxt">Learn more about fresh water</p>
+            <p id="source"></p>
+        </div>
+
+        <!-- MIDDLE SECIOTN -->
+        <div class="midleSection">
+            <!-- Simulation Image -->
+            <div class="simulation">
+                <img id="LS_background" src="images/lakeClean.png" alt="Lake surrounded by grass and trees">
+                <!-- Animals -->
+                <div class="animals">
+                    <img id="lakeAnimals" src="images/animalsClean.png" alt="Animals scattered around and in the lake">
+                    <img id="duck" src="images/duck.png" alt="duck">
+                    <img id="balloon" src = "images/balloon.png" alt="a hot air balloon">
+                    <img id = "sailboat" src = "images/sailboat.png" alt="a sailboat">
+                    <img id ="boat" src = "images/boat.png" alt = "a rowboat">
+                </div>
+            </div>
+
+            <div class="controlColumn">
+                <!-- Simulation Data -->
+                <div>
+                    <div class="simulationData">
+                        <h3>Simulation Data: </h3>
+                        <div class="circle" id="waterQuality">
+                            <h4>Water Quality: <span id="quality_number">100</span></h4>
+                        </div>
+                        <div class="response-text" id="LS_Data_response_txt">Water quality is good.</div>
+                        <button id="LS_reset">Reset</button>
+                    </div>
+                </div>
+
+                <!-- Pollute -->
+                <div class="pollute">
+                    <h3>Pollute</h3>
+                    <div class="polluteButtons">
+                        <div>
+                            <button class="runOffs" id="LS-P-runOffs">Run Offs</button>
+                            <button class="industrialWaste" id="LS-P-industrialWaste">Industrial Waste</button>
+                        </div>
+                        <div>
+                            <button class="oilGrease" id="LS-P-oilGrease">Oil/Grease</button>
+                            <button class="sewageWastewater" id="LS-P-sewageWastewater">Sewage/Wastewater</button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Clean -->
+                <div class="clean">
+                    <h3>Clean</h3>
+                    <div class="cleanButtons">
+                        <div>
+                            <button class="runOffs" id="LS-C-runOffs">Run Offs</button>
+                            <button class="industrialWaste" id="LS-C-industrialWaste">Industrial Waste</button>
+                            <div>
+                                <button class="oilGrease" id="LS-C-oilGrease">Oil/Grease</button>
+                                <button class="sewageWastewater" id="LS-C-sewageWastewater">Sewage/Wastewater</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </main>
+    
+    <!-- Response text -->
+    <div id="button_response">
+        <p id="response_txt"></p>
+    </div>
+
+
+    <!-- FOOTER -->
+    <footer>
+        <p>&copy; 2024 Freshwater Simulation Project</p>
+        <p>
+            <a href="https://www.rollins.edu/freshwater-alliance" target="_blank">Freshwater Alliance</a> |
+            Rollins: <a href="https://www.rollins.edu" target="_blank">rollins.edu</a> |
+            Contact: <a href="mailto:freshwater@rollins.edu">freshwater@rollins.edu</a> |
+            Instagram: <a href="https://www.instagram.com/freshwateralliance_rollins/?__d=1%2F"
+                target="_blank">@freshwateralliance_rollins</a>
+        </p>
+    </footer>
+
+
+</body>
+
+</html>

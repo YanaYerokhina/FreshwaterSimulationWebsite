@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Underwater Simulation</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
+
+</head>
+
+<body class="simulation_body" id="underwater_body">
+
+    <!-- Animated Ripples -->
+    <div class="ripple"></div>
+    <div class="ripple"></div>
+    <div class="ripple"></div>
+    
+    <!-- Animated Bubbles -->
+    <div class="bubble"></div>
+    <div class="bubble"></div>
+    <div class="bubble"></div>
+    <div class="bubble"></div>
+    
+    <!-- NAVIGATION BAR -->
+    <nav>
+        <button onclick="location.href='underwaterSimulation.html'">Underwater Simulation</button>
+        <button onclick="location.href='index.html'">Home</button>
+        <button onclick="location.href='lakeSimulation.html'">Lake Shore Simulation</button>
+    </nav>
+
+    <main>
+        <!-- SECTION TITLE -->
+        <div class="sectionTitle">
+            <h1>Underwater Simulation</h1>
+        </div>
+
+        <!-- FRESHWATER FACT -->
+        <div class="factSection">
+            <h2>Freshwater Fact:</h2>
+            <p id="factTxt">Learn more about fresh water</p>
+            <p id="source"></p>
+        </div>
+
+        <!-- MIDDLE SECIOTN -->
+        <div class="midleSection">
+            <!-- Simulation Image -->
+            <div class="simulation">
+                <img id="UW_background" src="images/underwaterClean.png" alt="Underwater perspective of lake">
+                <!-- Animals -->
+                <div class="animals">
+                    <img id="fish1" class="animal" src="images/fish1Clean.png" alt="group of fish">
+                    <img id="fish2" class="animal" src="images/fish2Clean.png" alt="group of fish">
+                    <img id="fish3" class="animal" src="images/fish3Clean.png" alt="group of fish">
+                </div>
+            </div>
+
+            <div class="controlColumn">
+                <!-- Simulation Data -->
+                <div>
+                    <div class="simulationData">
+                        <h3>Simulation Data: </h3>
+                        <div class="circle" id="waterQuality">
+                        <h4>Water Quality: <span id="quality_number">100</span></h4></div>
+                        <div class="response-text" id="UW_Data_response_txt">Water quality is good.</div>
+                        <button id="UW_reset">Reset</button>
+                    </div>
+                </div>
+
+                <!-- Pollute -->
+                <div class="pollute">
+                    <h3>Pollute</h3>
+                    <div class="polluteButtons">
+                        <div>
+                            <button class="runOffs" id="UW-P-runOffs">Run Offs</button>
+                            <button class="industrialWaste" id="UW-P-industrialWaste">Industrial Waste</button>
+                        </div>
+                        <div>
+                            <button class="oilGrease" id="UW-P-oilGrease">Oil/Grease</button>
+                            <button class="sewageWastewater" id="UW-P-sewageWastewater">Sewage/Wastewater</button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Clean -->
+                <div class="clean">
+                    <h3>Clean</h3>
+                    <div class="cleanButtons">
+                        <div>
+                            <button class="runOffs" id="UW-C-runOffs">Run Offs</button>
+                            <button class="industrialWaste" id="UW-C-industrialWaste">Industrial Waste</button>
+                            <div>
+                                <button class="oilGrease" id="UW-C-oilGrease">Oil/Grease</button>
+                                <button class="sewageWastewater" id="UW-C-sewageWastewater">Sewage/Wastewater</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Response Text -->
+    <div id="button_response">
+        <p id="response_txt"></p>
+    </div>
+
+
+    <!-- FOOTER -->
+    <footer>
+        <p>&copy; 2024 Freshwater Simulation Project</p>
+        <p>
+            <a href="https://www.rollins.edu/freshwater-alliance" target="_blank">Freshwater Alliance</a> |
+            Rollins: <a href="https://www.rollins.edu" target="_blank">rollins.edu</a> |
+            Contact: <a href="mailto:freshwater@rollins.edu">freshwater@rollins.edu</a> |
+            Instagram: <a href="https://www.instagram.com/freshwateralliance_rollins/?__d=1%2F"
+                target="_blank">@freshwateralliance_rollins</a>
+        </p>
+    </footer>
+
+
+</body>
+
+</html>
